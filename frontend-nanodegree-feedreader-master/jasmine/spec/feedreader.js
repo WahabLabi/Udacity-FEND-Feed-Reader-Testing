@@ -30,7 +30,7 @@ $(function() {
             expect(document.querySelector('body').classList.contains('menu-hidden')).toBe(true);
         });
 
-        // 5th test - checks whether the menu icon works (clicking it hides and displays the menu)
+        // 5th test - checks whether the menu icon works (clicking it reveals or hides the menu)
         it('changes visibility when the menu icon is clicked', () => {
             let clickable = document.querySelector('.menu-icon-link');
             clickable.click();
