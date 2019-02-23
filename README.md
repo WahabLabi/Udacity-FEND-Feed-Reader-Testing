@@ -7,8 +7,8 @@ The main purpose of this project was to conduct Jasmine tests on the (pre-existi
 Skills developed:
 
 * [x] Jasmine testing:
- * [x] Testing DOM manipulation
- * [x] Asynchronous testing
+   * [x] Testing DOM manipulation
+   * [x] Asynchronous testing
 
 [1]:https://eu.udacity.com/course/front-end-web-developer-nanodegree--nd001
 [2]:https://eu.udacity.com/
