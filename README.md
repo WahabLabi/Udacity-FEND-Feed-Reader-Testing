@@ -2,7 +2,7 @@
 
 This is a web-based application that reads RSS feeds and was one of my projects for my [Front End Developer Nanodegree][1] at [Udacity][2].
 
-The main purpose of this project was to conduct Jasmine tests on the (pre-existing) application to ensure that it functions properly. These tests can be seen in the [feedreader.js](feedreader.js) file.
+The main purpose of this project was to conduct Jasmine tests on the (pre-existing) application to ensure that it functions properly. These tests can be seen in the [feedreader.js](jasmine/spec/feedreader.js) file.
 
 In order to view the application please clone or download the repo and then open the index.html file.
 
