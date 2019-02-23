@@ -1,10 +1,8 @@
 # Feed Reader Testing
 
-This is a web-based application that reads RSS feeds and was one of my projects for my [Front End Developer Nanodegree][1] at [Udacity][2].
+This repository consists of a web-based application that reads RSS feeds and was one of my projects for my [Front End Developer Nanodegree][1] at [Udacity][2].
 
-The main purpose of this project was to conduct Jasmine tests on the (pre-existing) application to ensure that it functions properly. These tests can be seen in the [feedreader.js](frontend-nanodegree-feedreader-master/jasmine/spec/feedreader.js) file.
-
-In order to view the application please clone or download the repo and then open the index.html file.
+The main purpose of this project was to conduct Jasmine tests on the (pre-existing) application to ensure that it functions properly. These tests can be seen in the [feedreader.js](frontend-nanodegree-feedreader-master/jasmine/spec/feedreader.js) file. If you wish to see the project files then please clone or download this repository.
 
 Skills developed:
 
