@@ -10,7 +10,7 @@ Skills developed:
    * [x] Testing DOM manipulation
    * [x] Asynchronous testing
 
-This was one of my projects for my [Front End Developer Nanodegree][1] at [Udacity][2].
+This was one of my projects for my [Front End Developer Nanodegree][1] at [Udacity][2]. Udacity' lessons, supporting material, code reviews and feedback were invaluable.
 
 [1]:https://eu.udacity.com/course/front-end-web-developer-nanodegree--nd001
 [2]:https://eu.udacity.com/
